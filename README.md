@@ -18,3 +18,4 @@ What I'm learning
 - [x] Created a variable and added string interpolation
 - [x] Created an array for students and got rid of repetitive code
 - [x] Created 3 methods
+- [x] Added more information and put student data in hashes
