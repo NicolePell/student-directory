@@ -16,3 +16,4 @@ What I'm learning
 - [x] Created this README file while learning more about Markdown and Git-flavored Markdown
 - [x] Create and commit a ruby file which prints a list
 - [x] Created a variable and added string interpolation
+- [x] Created an array for students and got rid of repetitive code
