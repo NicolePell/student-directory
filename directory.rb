@@ -1,35 +1,40 @@
-student_count = 28
-# print the list of potential students in September 2014 cohort
+# put the list of potential students into an array
+students = [
+	"vic329", 
+	"Bernard", 
+	"Elena Garrone", 
+	"Yvette Cook", 
+	"Stephen Giles", 
+	"Ana Isabel Nogal", 
+	"craigh44", 
+	"Tim Scully", 
+	"Ella Schofield", 
+	"Fadie H", 
+	"Colin Schmid aka mala23",
+	"zrasool88",
+	"galicians",
+	"danjocutler",
+	"Camilla van Klinken",
+	"Sandrine",
+	"jamesascarter",
+	"sistevens",
+	"Schlap",
+	"andrewhercules",
+	"Karin Nielsen",
+	"Andrew Snead",
+	"Rachel Nolan",
+	"galalag",
+	"annaschechter",
+	"alexfakhri",
+	"Denise Yu",
+	"Nicole Pellicena Tredway (ME)"
+]
+# now print the list
 puts "The students of my cohort (September 2014) at Makers Academy"
 puts "----------"
-puts "vic329"
-puts "Bernard"
-puts "Elena Garrone"
-puts "Yvette Cook"
-puts "Stephen Giles"
-puts "Ana Isabel Nogal"
-puts "craigh44"
-puts "Tim Scully"
-puts "Ella Schofield"
-puts "Fadie H"
-puts "Colin Schmid aka mala23"
-puts "zrasool88"
-puts "galicians"
-puts "danjocutler"
-puts "Camilla van Klinken"
-puts "Sandrine"
-puts "jamesascarter"
-puts "sistevens"
-puts "Schlap"
-puts "andrewhercules"
-puts "Karin Nielsen"
-puts "Andrew Snead"
-puts "Rachel Nolan"
-puts "galalag"
-puts "annaschechter"
-puts "alexfakhri"
-puts "Denise Yu"
-puts "Nicole Pellicena Tredway (ME)"
+students.each do |student|
+	puts student
+end
 puts "----------"
 # print the total number of potential students
-puts "Overall, we have #{student_count} potential students."
+puts "Overall, we have #{students.length} potential students."
