@@ -19,3 +19,4 @@ What I'm learning
 - [x] Created an array for students and got rid of repetitive code
 - [x] Created 3 methods
 - [x] Added more information and put student data in hashes
+- [x] Now asks for user to input student names
