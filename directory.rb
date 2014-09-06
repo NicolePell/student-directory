@@ -29,12 +29,22 @@ students = [
 	"Denise Yu",
 	"Nicole Pellicena Tredway (ME)"
 ]
-# now print the list
-puts "The students of my cohort (September 2014) at Makers Academy"
-puts "----------"
-students.each do |student|
-	puts student
+# create a method that prints the header
+def print_header
+	puts "The students of my cohort (September 2014) at Makers Academy"
+	puts "----------"
 end
-puts "----------"
-# print the total number of potential students
-puts "Overall, we have #{students.length} potential students."
+# create a method that prints the list of students
+def print(names)
+	names.each do |name|
+		puts name
+	end
+end
+# create a method that prints the total number of students
+def print_footer(names)
+	puts "Overall, we have #{names.length} potential students."
+end
+# call the methods
+print_header
+print(students)
+print_footer(students)
