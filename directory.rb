@@ -27,3 +27,8 @@ puts "galalag"
 puts "annaschechter"
 puts "alexfakhri"
 puts "Denise Yu"
+puts "Nicole Pellicena Tredway (ME)"
+puts "----------"
+print "Overall, we have "
+print 28
+puts " potential students"
