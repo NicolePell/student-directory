@@ -1,3 +1,4 @@
+student_count = 28
 # print the list of potential students in September 2014 cohort
 puts "The students of my cohort (September 2014) at Makers Academy"
 puts "----------"
@@ -31,6 +32,4 @@ puts "Denise Yu"
 puts "Nicole Pellicena Tredway (ME)"
 puts "----------"
 # print the total number of potential students
-print "Overall, we have "
-print 28
-puts " potential students."
+puts "Overall, we have #{student_count} potential students."
