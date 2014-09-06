@@ -12,7 +12,7 @@ ruby directory.rb
 
 What I'm learning
 -----
-[x] Set up git repository
-[x] Created this README file while learning more about Markdown and Git-flavored Markdown
-[x] Create and commit a ruby file which prints a list
-[x] Created a variable and added string interpolation
+- [x] Set up git repository
+- [x] Created this README file while learning more about Markdown and Git-flavored Markdown
+- [x] Create and commit a ruby file which prints a list
+- [x] Created a variable and added string interpolation
