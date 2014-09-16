@@ -27,5 +27,5 @@ What I've done
 
 To do
 ------
-- [x] Exercises 8-12
-- [x] Extra Exercises 1-7
+- [ ] Exercises 8-12
+- [ ] Extra Exercises 1-7
