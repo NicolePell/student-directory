@@ -10,13 +10,22 @@ How to use
 ruby directory.rb
 ```
 
-What I'm learning
+What I've done
 -----
-- [x] Set up git repository
-- [x] Created this README file while learning more about Markdown and Git-flavored Markdown
-- [x] Create and commit a ruby file which prints a list
-- [x] Created a variable and added string interpolation
-- [x] Created an array for students and got rid of repetitive code
-- [x] Created 3 methods
-- [x] Added more information and put student data in hashes
-- [x] Now asks for user to input student names
+- [x] Set up environment including git
+- [x] V01. Print list of students
+- [x] V02. Refactor (clean code)
+- [x] V03. Arrays
+- [x] V04. Methods
+- [x] V05. Add more info about students
+- [x] V06. Ask for user input
+- [x] Exercises 1-7
+- [x] V07. Add an interactive menu
+- [x] V08. Save data to a file
+- [x] V09. Load data to a file
+- [x] V10. Take arguments from command line
+
+To do
+------
+- [x] Exercises 8-12
+- [x] Extra Exercises 1-7
